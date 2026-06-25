@@ -35,10 +35,7 @@ people-analytics-dashboard/
 ├── app.py
 ├── README.md
 ├── requirements.txt
-│
-├── data/
-│
-└── images/
+
 ```
 
 ## ▶️ Como Executar
